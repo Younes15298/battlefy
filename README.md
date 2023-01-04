@@ -9,9 +9,9 @@
 <h3>to run project</h3>
 <h4>Server</h4>
 <p>open server file in cmd or gitbash </p>
-<p>and type : npm start </p>
+<p>and type : npm install   then npm start </p>
 <hr/>
 <h4>Client</h4>
 <p>open client file in cmd or gitbash </p>
-<p>and type : npm start </p>
+<p>and type : npm install   then npm start </p>
 

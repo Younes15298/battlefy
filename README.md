@@ -1,6 +1,6 @@
 <h1>battlefy</h1>
 <h3>About Project</h3>
-<p>battlefy is tournaments website for all gamers , it handels tournaments between players in several games</p>
+<p>battlefy is tournaments website for all gamers , it handle tournaments between players in several games</p>
 <hr/>
 <h3>Programming language</h3>
 <h4>BackEnd : Node.js / MongoDB</h4>
